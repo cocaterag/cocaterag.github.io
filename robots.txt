@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cocaterag.github.io/sitemap.html.gz
+Sitemap: https://cocaterag.github.io/app/sitemap.html.gz
+Sitemap: https://cocaterag.github.io/assets/sitemap.html.gz
+Sitemap: https://cocaterag.github.io/css/sitemap.html.gz
+Sitemap: https://cocaterag.github.io/includes/sitemap.html.gz
+Sitemap: https://cocaterag.github.io/item/sitemap.html.gz
+Sitemap: https://cocaterag.github.io/src/sitemap.html.gz
